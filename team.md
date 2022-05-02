@@ -18,16 +18,15 @@ Tiago Rodrigues (Portugal)<br />
 <br />
 ## <span style = 'color:#1c8cc8'>PhD candidates</span>
 A. Filipa Almeida (Portugal)<br />
-Viktor Tscharf (Germany; Starting Feb 2022)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>MSc students</span>
 Joana Neves (Portugal) <br />
-Giullia Varignani (Italy; Starting Feb 2022)<br />
+Giullia Varignani (Italy)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Undergraduates</span>
-Bharath Sai (India; Starting Feb 2022)<br />
+Latimah Arrechea <br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Alumni</span>
