@@ -20,7 +20,7 @@ Tiago grew up in Setúbal, Portugal and graduated in <b>pharmaceutical sciences 
 He started his independent career in 2018 and moved in 2019 to the Faculty of Pharmacy, University of Lisbon to establish the DigiChem Lab. Since 2022 he is an <b>Assistant Professor at the Department of Pharmaceutical Sciences</b>. He works on the digitalization of chemical sciences, with special focus on merging computation with experimental chemical biology, organic chemistry, medicinal chemistry and nanotechnology. His ultimate goal is translating science from bench to clinic to improve healthcare.
 <br />
 <br />
-He has published >60 papers with >15 as senior or co-senior author (h-index 26), delivered >70 presentations at national and international meetings and is inventor in 4 patents.
+He has published >60 papers with >15 as senior or co-senior author (h-index 28), delivered >70 presentations at national and international meetings and is inventor in 4 patents.
 <br />
 <br />
 Outside science, Tiago is a tennis addict – having played competitively at national and international levels for >15 years – and a gamer.
@@ -28,6 +28,7 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <h2><font color="#1c8cc8">Honours & Awards</font></h2>
+<b>2022</b>	Runner up 2022 EFMC Young Medicinal Chemist or Chemical Biologist in Academia<br />
 <b>2021</b>	Invited as <i>Organic & Biomolecular Chemistry</i> New Talent <br />
 <b>2021</b>	Invited as <i>RSC Chemical Biology</i> Emerging Investigator <br />
 <b>2021</b>	Invited as <i>ChemBioChem</i> ChemBioTalent <br />
