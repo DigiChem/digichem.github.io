@@ -22,7 +22,7 @@ A. Filipa Almeida (Portugal)<br />
 <br />
 ## <span style = 'color:#1c8cc8'>MSc students</span>
 Joana Neves (Portugal) <br />
-Giullia Varignani (Italy)<br />
+Giulia Varignani (Italy)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Undergraduates</span>
