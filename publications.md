@@ -10,7 +10,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 - Invited Perspective
 
 <p style="text-align:center;"><a href="https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f">
-<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Digital_Discov_2022.png" style='border:2px solid #1c8cc8' alt="toc" width="400">
+<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/toc_Digital_Discov_2022.png" style='border:2px solid #1c8cc8' alt="toc" width="200">
 </a></p>
 
 <br />
