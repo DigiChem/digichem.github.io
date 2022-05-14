@@ -6,8 +6,8 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **66\. Nuisance small molecules under a machine-learning lens** <br />
 **T. Rodrigues**\* <br />
-*Digital Discov* **2022**, *accepted*
-- Invited Contribution
+[*Digital Discov* **2022**, *accepted*](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f)
+- Invited Perspective
 
 <br />
 
