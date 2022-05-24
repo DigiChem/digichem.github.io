@@ -4,6 +4,15 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
+**67\. Evaluation guidelines for machine learning tools in the chemical sciences** <br />
+A. Bender, N. Schneider, M. Segler, W. P. Walters, O. Engkvist, **T. Rodrigues**\* <br />
+[*Nat Rev Chem* **2022**, *accepted*](https://www.nature.com/articles/s41570-022-00391-9)
+
+
+<br />
+<br />
+<br /
+
 **66\. Nuisance small molecules under a machine-learning lens** <br />
 **T. Rodrigues**\* <br />
 [*Digital Discov* **2022**, *accepted*](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f)
