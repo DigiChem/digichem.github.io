@@ -9,7 +9,7 @@ A. Bender, N. Schneider, M. Segler, W. P. Walters, O. Engkvist, **T. Rodrigues**
 [*Nat Rev Chem* **2022**, *accepted*](https://www.nature.com/articles/s41570-022-00391-9)
 
 <p style="text-align:center;"><a href="https://www.nature.com/articles/s41570-022-00391-9">
-<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_NatRevChem_2022.png" style='border:2px solid #1c8cc8' alt="toc" width="200">
+<img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_NatRevChem_2022.png" style='border:2px solid #1c8cc8' alt="toc" width="400">
 </a></p>
 
 <br />
