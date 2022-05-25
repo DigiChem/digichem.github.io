@@ -14,7 +14,7 @@ A. Bender, N. Schneider, M. Segler, W. P. Walters, O. Engkvist, **T. Rodrigues**
 
 <br />
 <br />
-<br /
+<br />
 
 **66\. Nuisance small molecules under a machine-learning lens** <br />
 **T. Rodrigues**\* <br />
