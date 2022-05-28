@@ -4,7 +4,7 @@ title: ""
 ---
 
 ### <span style = 'color:#1c8cc8'> **May 2022**</span>
-- Tiago co-authored a perpective on ML evaluation guidelines that is now published at Nature Reviews Chemistry <br />
+- Tiago co-authored a Perspective on ML evaluation guidelines that is now published at Nature Reviews Chemistry <br />
 <br />
 
 ### <span style = 'color:#1c8cc8'> **April 2022**</span>
