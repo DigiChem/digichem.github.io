@@ -18,7 +18,7 @@ A. Bender, N. Schneider, M. Segler, W. P. Walters, O. Engkvist, **T. Rodrigues**
 
 **66\. Nuisance small molecules under a machine-learning lens** <br />
 **T. Rodrigues**\* <br />
-[*Digital Discov* **2022**, *accepted*](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f)
+[*Digital Discov* **2022**, *1*, 209-2015](https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f)
 - Invited Perspective
 
 <p style="text-align:center;"><a href="https://pubs.rsc.org/en/content/articlelanding/2022/dd/d2dd00001f">
