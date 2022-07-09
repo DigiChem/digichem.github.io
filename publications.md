@@ -6,7 +6,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **68\. Controlled masking and targeted release of redox-cycling ortho-quinones via a C–C bond-cleaving 1,6-elimination** <br />
 L. Dunsmore, C. D. Navo, J. Becher, E. G. de Montes, A. Guerreiro, E. Hoyt , L. Brown, V. Zelenay, S. Mikutis, J. Cooper, I. Barbieri, S. Lawrinowitz, E. Siouve, E. Martin, P. R. Ruivo, **T. Rodrigues**, F. P. da Cruz, O. Werz, G. Vassiliou, P. Ravn, G. Jiménez-Osés, G. J. L. Bernardes\* <br />
-[*Nat Chem* **2022**, *accepted*](https://www.nature.com/articles/s41557-022-00964-7)
+[*Nat Chem* **2022**, *14*, 754-765](https://www.nature.com/articles/s41557-022-00964-7)
 
 <p style="text-align:center;"><a href="https://www.nature.com/articles/s41557-022-00964-7">
 <img src="https://raw.githubusercontent.com/DigiChem/digichem.github.io/master/_images/TOC_NatChem_2022.png" style='border:2px solid #1c8cc8' alt="toc" width="400">
