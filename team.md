@@ -22,12 +22,13 @@ A. Filipa Almeida (Portugal)<br />
 <br />
 ## <span style = 'color:#1c8cc8'>MSc students</span>
 Joana Neves (Portugal) <br />
-Giulia Varignani (Italy)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Undergraduates</span>
-Latimah Arrechea <br />
+-
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Alumni</span>
+**2022** Latimah Arrechea (Colombia)<br />
+**2022** Giulia Varignani (Italy)<br />
 **2021** Andżelika Lorenc (Poland; PhD candidate at Nicolaus Copernicus University)<br />
