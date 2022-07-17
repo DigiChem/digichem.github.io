@@ -6,7 +6,7 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **69\. A Special issue on artificial intelligence for drug discoveryn** <br />
 **T. Rodrigues**\* <br />
-[*Bioorg Med Chem* **2022**, *accpeted*](https://www.sciencedirect.com/science/article/pii/S0968089622003327)
+[*Bioorg Med Chem* **2022**, *accepted*](https://www.sciencedirect.com/science/article/pii/S0968089622003327)
 
 <br />
 <br />
