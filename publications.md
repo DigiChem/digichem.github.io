@@ -4,6 +4,14 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
+**69\. A Special issue on artificial intelligence for drug discoveryn** <br />
+**T. Rodrigues**\* <br />
+[*Bioorg Med Chem* **2022**, *accpeted*](https://www.sciencedirect.com/science/article/pii/S0968089622003327)
+
+<br />
+<br />
+<br />
+
 **68\. Controlled masking and targeted release of redox-cycling ortho-quinones via a C–C bond-cleaving 1,6-elimination** <br />
 L. Dunsmore, C. D. Navo, J. Becher, E. G. de Montes, A. Guerreiro, E. Hoyt , L. Brown, V. Zelenay, S. Mikutis, J. Cooper, I. Barbieri, S. Lawrinowitz, E. Siouve, E. Martin, P. R. Ruivo, **T. Rodrigues**, F. P. da Cruz, O. Werz, G. Vassiliou, P. Ravn, G. Jiménez-Osés, G. J. L. Bernardes\* <br />
 [*Nat Chem* **2022**, *14*, 754-765](https://www.nature.com/articles/s41557-022-00964-7)
