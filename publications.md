@@ -4,9 +4,17 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
+**70\. Chemoproteomics-Enabled Identification of 4-Oxo-β-Lactams as Inhibitors of Dipeptidyl Peptidases 8 and 9** <br />
+L. A. R. Carvalho, B. Ross, L. Fehr, O. Bolgi, S. Wöhrle, K. M. Lum, D. Podlesainski, A. C. Vieira, R. Kiefersauer, R. Félix, **T. Rodrigues**, S. D. Lucas, O. Groß, R. Geiss-Friedlander, B. F. Cravatt, R. Huber, M. Kaiser, R. Moreira <br />
+[*Angew Chem Int Ed* **2022**, *accepted*](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
+
+<br />
+<br />
+<br />
+
 **69\. A Special issue on artificial intelligence for drug discovery** <br />
 **T. Rodrigues**\* <br />
-[*Bioorg Med Chem* **2022**, *accepted*](https://www.sciencedirect.com/science/article/pii/S0968089622003327)
+[*Bioorg Med Chem* **2022**, *70*, 116939](https://www.sciencedirect.com/science/article/pii/S0968089622003327)
 
 <br />
 <br />
