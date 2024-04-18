@@ -17,18 +17,27 @@ Tiago Rodrigues (Portugal)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>PhD candidates</span>
-A. Filipa Almeida (Portugal)<br />
+Ana Laura Dias (Portugal)<br />
+Carmen Casuso (Spain)<br />
+Latimah Arrechea (Colombia)<br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>MSc students</span>
-Joana Neves (Portugal) <br />
+Beatriz Grades (Portugal) <br />
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Undergraduates</span>
---
+Beatriz Laranjeiro (Portugal)
 <br />
 <br />
 ## <span style = 'color:#1c8cc8'>Alumni</span>
-**2022** Latimah Arrechea (Colombia)<br />
-**2022** Giulia Varignani (Italy)<br />
+**2023** Elena Sánchez (Spain; exchange PhD student from the Martinez lab at CSIC)<br />
+**2023** Beatriz Grades (Portugal; intern)<br />
+**2023** Maria Beatriz Machado (Portugal; exchange PhD student from the Fior lab at Champalimaud Foundation)<br />
+**2022** Latimah Arrechea (Colombia; intern)<br />
+**2023** Layal Hammad (Jordan; intern)<br />
+**2022** Andreia Filipa Almeida (Portugal; PhD student; currently at Hovione, Portugal)<br />
+**2022** Joana Neves (Portugal; MSc student; currently at Lonza, Switzerland)<br />
+**2022** Latimah Arrechea (Colombia; intern)<br />
+**2022** Giulia Varignani (Italy; ERASMUS+))<br />
 **2021** Andżelika Lorenc (Poland; PhD candidate at Nicolaus Copernicus University)<br />
