@@ -5,14 +5,14 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 ### <span style = 'color:#1c8cc8'>**2024**</span>
 
-77\. A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research** <br />
+**77\. A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research** <br />
 B. B. Mendes, Z. Zhang, J Conniot, D. P Sousa, J. M. J. M. Ravasco, L. A. Onweller, A. Lorenc, **T Rodrigues**\*, D Reker\*, J Conde\* <br />
 *Nature Nanotechnol* **2024**, *accepted*
   
 <br />
 <br />
 <br />
-76\. Machine learning uncovers natural product modulators of the 5-lipoxygenase pathway and facilitates elucidation of their biological mechanisms** <br />
+**76\. Machine learning uncovers natural product modulators of the 5-lipoxygenase pathway and facilitates elucidation of their biological mechanisms** <br />
 S. Mikutis, S. Lawrinowitz, C. Kretzer, L. Dunsmore, L. Skeretis, **T. Rodrigues**, O. Werz, G. Bernardes <br />
 [*ACS Chem Biol* **2024**, *19*, 217220](https://pubs.acs.org/doi/10.1021/acschembio.3c00725)
   
