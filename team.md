@@ -8,7 +8,7 @@ We are always looking for enthusiastic and creative researchers to join the **Di
 <br />
 If you share these interests, have complementary expertise or simply want to expand your skillset in a Masters, PhD or Postdoctoral stay, please contact [Tiago](mailto:tiago.rodrigues@ff.ulisboa.pt) directly. All applications should include a cover letter highlighting research interests, a full CV and the names and addresses of two references. <br />
 <br />
-**Funded PhD and Postdoctoral positions will be advertised when available. Postdoctoral researchers are encouraged to obtain their own fellowships.**
+**Funded PhD and Postdoctoral positions will be advertised when available. Postdoctoral researchers are encouraged to obtain their own fellowships. Currently, we have funding available for a postdoctoral researcher in the area of AI.**
 <br />
 <br />
 <br />
