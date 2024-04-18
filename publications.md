@@ -7,13 +7,14 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 
 **77\. A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research** <br />
 B. B. Mendes, Z. Zhang, J Conniot, D. P Sousa, J. M. J. M. Ravasco, L. A. Onweller, A. Lorenc, **T Rodrigues**\*, D Reker\*, J Conde\* <br />
-[*Nature Nanotechnol* **2024**, *accepted*]
+*Nature Nanotechnol* **2024**, *accepted*
   
 <br />
 <br />
 <br />
 **76\. Machine learning uncovers natural product modulators of the 5-lipoxygenase pathway and facilitates elucidation of their biological mechanisms** <br />
 S. Mikutis, S. Lawrinowitz, C. Kretzer, L. Dunsmore, L. Skeretis, **T. Rodrigues**, O. Werz, G. Bernardes <br />
+[*ACS Chem Biol* **2024**, *19*, 217220](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
 [*ACS Chem Biol* **2024**, *19*, 217220](https://pubs.acs.org/doi/10.1021/acschembio.3c00725)
   
 <br />
@@ -69,7 +70,7 @@ L. Bustillo, **T. Rodrigues**\* <br />
 
 **70\. Chemoproteomics-Enabled Identification of 4-Oxo-β-Lactams as Inhibitors of Dipeptidyl Peptidases 8 and 9** <br />
 L. A. R. Carvalho, B. Ross, L. Fehr, O. Bolgi, S. Wöhrle, K. M. Lum, D. Podlesainski, A. C. Vieira, R. Kiefersauer, R. Félix, **T. Rodrigues**, S. D. Lucas, O. Groß, R. Geiss-Friedlander, B. F. Cravatt, R. Huber, M. Kaiser, R. Moreira <br />
-[*Angew Chem Int Ed* **2022**, e202213804](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
+[*Angew Chem Int Ed* **2022**, *61*, e202213804](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
 
 <br />
 <br />
