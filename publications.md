@@ -2,11 +2,74 @@ For citation analyses and h-index check [Google Scholar](https://scholar.google.
 <br />
 <br />
 <br />
+
+### <span style = 'color:#1c8cc8'>**2024**</span>
+
+**77\. A large-scale machine learning analysis of inorganic nanoparticles in preclinical cancer research** <br />
+B. B. Mendes, Z. Zhang, J Conniot, D. P Sousa, J. M. J. M. Ravasco, L. A. Onweller, A. Lorenc, **T Rodrigues**\*, D Reker\*, J Conde\* <br />
+[*Nature Nanotechnol* **2024**, *accepted*]
+  
+<br />
+<br />
+<br />
+**76\. Machine learning uncovers natural product modulators of the 5-lipoxygenase pathway and facilitates elucidation of their biological mechanisms** <br />
+S. Mikutis, S. Lawrinowitz, C. Kretzer, L. Dunsmore, L. Skeretis, **T. Rodrigues**, O. Werz, G. Bernardes <br />
+[*ACS Chem Biol* **2024**, *19*, 217220](https://pubs.acs.org/doi/10.1021/acschembio.3c00725)
+  
+<br />
+<br />
+<br />
+### <span style = 'color:#1c8cc8'>**2023**</span>
+
+**75\. Chemistry automated by large language models** <br />
+A. L. Dias, **T. Rodrigues**\* <br />
+[*Nature* **2023**, *624*, 530–531](https://www.nature.com/articles/d41586-023-03790-0)
+- Invited contribution
+  
+<br />
+<br />
+<br />
+
+**74\. The rise of automated curiosity-driven discoveries in chemistry** <br />
+L. Bustillo, T. Laino, **T. Rodrigues**\* <br />
+[*Chem Sci* **2023**, *14*, 10378-10384](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03367h)
+- Hot article
+  
+<br />
+<br />
+<br />
+
+**73\. Merging the Isonitrile–Tetrazine (4+1) Cycloaddition and the Ugi Four-Component Reaction into a Single Multicomponent Process** <br />
+Y. Méndez, A. V. Vasco, G. Ivey, P. Gierth, B. B. Sousa, C. D. Navo, A. L. Dias, A. Torres-Mozas, **T. Rodrigues**, G. Jiménez-Osés, G. J. L. Bernardes <br />
+[*Angew Chem Int Ed* **2023**, *62*, e2023111](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202311186)
+- Hot paper
+
+<br />
+<br />
+<br />
+
+**72\. Limitations of representation learning in small molecule property prediction** <br />
+A. L. Dias, L. Bustillo, **T. Rodrigues**\*  <br />
+[*Nat Commun* **2023**, *14*, 6394](https://www.nature.com/articles/s41467-023-41967-3)
+- Invited contribution
+
+<br />
+<br />
+<br />
+
+**71\. A focus on the use of real-world datasets for yield prediction** <br />
+L. Bustillo, **T. Rodrigues**\* <br />
+[*Chem Sci* **2023**, *14*, 4958-4960](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc90069j7)
+- Invited contribution
+
+<br />
+<br />
+<br />
 ### <span style = 'color:#1c8cc8'>**2022**</span>
 
 **70\. Chemoproteomics-Enabled Identification of 4-Oxo-β-Lactams as Inhibitors of Dipeptidyl Peptidases 8 and 9** <br />
 L. A. R. Carvalho, B. Ross, L. Fehr, O. Bolgi, S. Wöhrle, K. M. Lum, D. Podlesainski, A. C. Vieira, R. Kiefersauer, R. Félix, **T. Rodrigues**, S. D. Lucas, O. Groß, R. Geiss-Friedlander, B. F. Cravatt, R. Huber, M. Kaiser, R. Moreira <br />
-[*Angew Chem Int Ed* **2022**, *accepted*](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
+[*Angew Chem Int Ed* **2022**, e202213804](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202210498)
 
 <br />
 <br />
