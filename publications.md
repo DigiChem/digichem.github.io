@@ -12,6 +12,7 @@ B. B. Mendes, Z. Zhang, J Conniot, D. P Sousa, J. M. J. M. Ravasco, L. A. Onwell
 <br />
 <br />
 <br />
+
 **76\. Machine learning uncovers natural product modulators of the 5-lipoxygenase pathway and facilitates elucidation of their biological mechanisms** <br />
 S. Mikutis, S. Lawrinowitz, C. Kretzer, L. Dunsmore, L. Skeretis, **T. Rodrigues**, O. Werz, G. Bernardes <br />
 [*ACS Chem Biol* **2024**, *19*, 217220](https://pubs.acs.org/doi/10.1021/acschembio.3c00725)
