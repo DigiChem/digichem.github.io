@@ -47,6 +47,10 @@ Outside science, Tiago is a tennis addict – having played competitively at nat
 <br />
 <br />
 <h2><font color="#1c8cc8">Professional Activity</font></h2>
+<b>2023–present</b>   Full member at the Acceleration Consortium, University of Toronto <br />
+<b>2023–present</b>   Editor at <i>Results in Chemistry</i> <br />
+<b>2023–present</b>   Early Career Board at <i>Journal of Medicinal Chemistry</i> <br />
+<b>2022–present</b>   Mercator Fellow at Molecular Machine Learning Priority Program (SPP2363) at DFG <br />
 <b>2022–present</b>   Assistant Professor at Faculty of Pharmacy, University of Lisbon <br />
 <b>2020–present</b>   Group leader at Faculty of Pharmacy, University of Lisbon <br />
 <b>2019–present</b>   Co-founder of TargTex S.A. <br />
